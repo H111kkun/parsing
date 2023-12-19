@@ -1,0 +1,384 @@
+{
+  "data": {
+    "search": {
+      "edges": [
+        {
+          "node": {
+            "id": "TUFOR0E6NTUwNTcxNjAyNDkzMDM0NjA",
+            "slug": "mononogatari",
+            "originalName": "Mononogatari",
+            "titles": [
+              {
+                "lang": "EN",
+                "content": "Malevolent Spirits: Mononogatari",
+                "__typename": "I18nTitle"
+              },
+              {
+                "lang": "RU",
+                "content": "История о мононокэ",
+                "__typename": "I18nTitle"
+              },
+              {
+                "lang": "JA",
+                "content": "もののがたり",
+                "__typename": "I18nTitle"
+              }
+            ],
+            "type": "MANGA",
+            "status": "FINISHED",
+            "translitionStatus": "ABANDONED",
+            "cover": {
+              "id": "SU1BR0U6NTUwNTcyMzM2NjY0MDA2NzY",
+              "blurhash": "TRKnLu02--Nj%JD+^;-=RjxTt7j^",
+              "original": {
+                "height": 1000,
+                "width": 700,
+                "url": "https://mirai.senkuro.net/manga/55057160249303460/covers/62e4d10e50fb4cbdeaec58e7a489bf850e0d864c_55057233666400676.jpeg",
+                "__typename": "ImageSize"
+              },
+              "preview": {
+                "url": "https://shiro.senkuro.net/LJvzdmBojMqNBh1deQuNOH4ua9iCwavPVRahpxsR-Qw/rs:fit:192:275/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS81NTA1NzE2MDI0OTMwMzQ2MC9jb3ZlcnMvNjJlNGQxMGU1MGZiNGNiZGVhZWM1OGU3YTQ4OWJmODUwZTBkODY0Y181NTA1NzIzMzY2NjQwMDY3Ni5qcGVn.jpeg",
+                "__typename": "ImageSize"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "SearchManga"
+          },
+          "__typename": "SearchNodeEdge"
+        },
+        {
+          "node": {
+            "id": "TUFOR0E6NTk3NDQ1NzQzNDM1MDQyNjM",
+            "slug": "la-mantis-a-la-que-no-para-de-rugirle-el-estomago-cuando-le-ve",
+            "originalName": "La Mantis A La Que No Para De Rugirle El Estomago Cuando Le Ve",
+            "titles": [
+              {
+                "lang": "RU",
+                "content": "Богомол, чей желудок не перестаёт урчать, когда он видит его",
+                "__typename": "I18nTitle"
+              }
+            ],
+            "type": "MANGA",
+            "status": "ONGOING",
+            "translitionStatus": "IN_PROGRESS",
+            "cover": {
+              "id": "SU1BR0U6NTk3NDQ2MzI5MTI3NjUzMTk",
+              "blurhash": "T%NJ{~Rj_4%fa{oNoga{oeInays;",
+              "original": {
+                "height": 1000,
+                "width": 700,
+                "url": "https://mirai.senkuro.net/manga/59744574343504263/covers/070cbe97e1d4838199551bd11d5d2ec39ceeff26_59744632912765319.jpeg",
+                "__typename": "ImageSize"
+              },
+              "preview": {
+                "url": "https://shiro.senkuro.net/okfFPq-4BOW7rOw7pfjBhR0-iTJpcJO491dpm_XFf3Y/rs:fit:192:275/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS81OTc0NDU3NDM0MzUwNDI2My9jb3ZlcnMvMDcwY2JlOTdlMWQ0ODM4MTk5NTUxYmQxMWQ1ZDJlYzM5Y2VlZmYyNl81OTc0NDYzMjkxMjc2NTMxOS5qcGVn.jpeg",
+                "__typename": "ImageSize"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "SearchManga"
+          },
+          "__typename": "SearchNodeEdge"
+        },
+        {
+          "node": {
+            "id": "TUFOR0E6Mzk3NTIzMjE5Njk3MDk0OTk",
+            "slug": "neoui-cheoum-i-doego-sip-eo",
+            "originalName": "Neoui cheoum-i doego sip-eo",
+            "titles": [
+              {
+                "lang": "RU",
+                "content": "Я хочу стать твоим единственным",
+                "__typename": "I18nTitle"
+              }
+            ],
+            "type": "MANHWA",
+            "status": "ANNOUNCE",
+            "translitionStatus": "IN_PROGRESS",
+            "cover": {
+              "id": "SU1BR0U6NTEzOTA2OTU5NTIzNzYyMzI",
+              "blurhash": "TNNd5SM{_NJ;E2tR.Soy-p%2xaWU",
+              "original": {
+                "height": 1000,
+                "width": 700,
+                "url": "https://mirai.senkuro.net/manga/39752321969709499/covers/add6177747c95c73310d959733c7f1c26e1b8b22_51390695952376232.jpeg",
+                "__typename": "ImageSize"
+              },
+              "preview": {
+                "url": "https://shiro.senkuro.net/iIt6wzq2yKW8uYQ4rK9lrpYHCNOwcdnMg3h2Y5BTBCQ/rs:fit:192:275/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS8zOTc1MjMyMTk2OTcwOTQ5OS9jb3ZlcnMvYWRkNjE3Nzc0N2M5NWM3MzMxMGQ5NTk3MzNjN2YxYzI2ZTFiOGIyMl81MTM5MDY5NTk1MjM3NjIzMi5qcGVn.jpeg",
+                "__typename": "ImageSize"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "SearchManga"
+          },
+          "__typename": "SearchNodeEdge"
+        },
+        {
+          "node": {
+            "id": "TUFOR0E6NjUzMzI1NTQ5MTU0MDYyNTM",
+            "slug": "love-live-nijigasaki-gakuen-school-idol-doukoukai-tapestry-comic-book-yuki-setsuna",
+            "originalName": "Love Live! Nijigasaki Gakuen School Idol Doukoukai Tapestry Comic Book 〜Yuki Setsuna〜",
+            "titles": [
+              {
+                "lang": "RU",
+                "content": "Лав Лайв! Клуб школьных айдолов Ниджигасаки: Комикс «Особые узы», выпуск Сецуны Юки",
+                "__typename": "I18nTitle"
+              },
+              {
+                "lang": "JA",
+                "content": "ラブライブ!虹ヶ咲学園スクールアイドル同好会タペストリーComic Book",
+                "__typename": "I18nTitle"
+              }
+            ],
+            "type": "MANGA",
+            "status": "FINISHED",
+            "translitionStatus": "FINISHED",
+            "cover": {
+              "id": "SU1BR0U6NjUzMzc1MjIwNzg2Mzg1MDk",
+              "blurhash": "TZLgV60NS$6+xvS$t7t6S#nj#k-o",
+              "original": {
+                "height": 1000,
+                "width": 700,
+                "url": "https://mirai.senkuro.net/manga/65332554915406253/covers/dfd9a45edf5a857d560b56c8c59fd4e71544c8c8_65337522078638509.jpeg",
+                "__typename": "ImageSize"
+              },
+              "preview": {
+                "url": "https://shiro.senkuro.net/sFCE1IA3IpykaixaldWSk0bALZy-Dn_iyW8HuO_1TZ8/rs:fit:192:275/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS82NTMzMjU1NDkxNTQwNjI1My9jb3ZlcnMvZGZkOWE0NWVkZjVhODU3ZDU2MGI1NmM4YzU5ZmQ0ZTcxNTQ0YzhjOF82NTMzNzUyMjA3ODYzODUwOS5qcGVn.jpeg",
+                "__typename": "ImageSize"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "SearchManga"
+          },
+          "__typename": "SearchNodeEdge"
+        },
+        {
+          "node": {
+            "id": "TUFOR0E6OTU0NjM0NzA5NjY3OTI2MDM",
+            "slug": "xblade",
+            "originalName": "XBlade",
+            "titles": [
+              {
+                "lang": "RU",
+                "content": "Искажающий клинок",
+                "__typename": "I18nTitle"
+              },
+              {
+                "lang": "JA",
+                "content": "クロスブレイド",
+                "__typename": "I18nTitle"
+              }
+            ],
+            "type": "MANGA",
+            "status": "FINISHED",
+            "translitionStatus": "FINISHED",
+            "cover": {
+              "id": "SU1BR0U6OTU0NjM1NTg1OTQxOTE3NzE",
+              "blurhash": "TZO|FSja~qoIkCjs_Nj[M{%Mj@NH",
+              "original": {
+                "height": 999,
+                "width": 700,
+                "url": "https://mirai.senkuro.net/manga/95463470966792603/covers/aa65ff5530936be38b85316c7fa57db070e38e9e_95463558594191771.jpeg",
+                "__typename": "ImageSize"
+              },
+              "preview": {
+                "url": "https://shiro.senkuro.net/7DIs3EBZF_gKLORh_6reMIs-bi7g9K7uKtnQmM1AjuE/rs:fit:192:275/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS85NTQ2MzQ3MDk2Njc5MjYwMy9jb3ZlcnMvYWE2NWZmNTUzMDkzNmJlMzhiODUzMTZjN2ZhNTdkYjA3MGUzOGU5ZV85NTQ2MzU1ODU5NDE5MTc3MS5qcGVn.jpeg",
+                "__typename": "ImageSize"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "SearchManga"
+          },
+          "__typename": "SearchNodeEdge"
+        },
+        {
+          "node": {
+            "id": "TUFOR0E6Mzk3MDc1NDE4ODU3MDY2ODM",
+            "slug": "ganbare-douki-chan",
+            "originalName": "Ganbare, Douki-chan",
+            "titles": [
+              {
+                "lang": "RU",
+                "content": "Доки, ты справишься!",
+                "__typename": "I18nTitle"
+              },
+              {
+                "lang": "JA",
+                "content": "がんばれ同期ちゃん",
+                "__typename": "I18nTitle"
+              }
+            ],
+            "type": "MANGA",
+            "status": "ONGOING",
+            "translitionStatus": "IN_PROGRESS",
+            "cover": {
+              "id": "SU1BR0U6NzAwMDgyOTcxODQzMjE5NjM",
+              "blurhash": "ToMtK$_NJ8bvR*RjW=WC%2-;RjRj",
+              "original": {
+                "height": 1000,
+                "width": 700,
+                "url": "https://mirai.senkuro.net/manga/39707541885706683/covers/bd7f294a11b23fdd66636cc4ab443d940eb9f97f_70008297184321963.jpeg",
+                "__typename": "ImageSize"
+              },
+              "preview": {
+                "url": "https://shiro.senkuro.net/VJDNFonxnhBhOA6TnlOnL2wL7wvrW6oAaImFCun-a4w/rs:fit:192:275/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS8zOTcwNzU0MTg4NTcwNjY4My9jb3ZlcnMvYmQ3ZjI5NGExMWIyM2ZkZDY2NjM2Y2M0YWI0NDNkOTQwZWI5Zjk3Zl83MDAwODI5NzE4NDMyMTk2My5qcGVn.jpeg",
+                "__typename": "ImageSize"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "SearchManga"
+          },
+          "__typename": "SearchNodeEdge"
+        },
+        {
+          "node": {
+            "id": "TUFOR0E6OTY0NzYwMzkyMDI0OTY5MzU",
+            "slug": "the-mighty-extra-one-girl-changes-the-world",
+            "originalName": "The Mighty Extra: One Girl Changes the World",
+            "titles": [
+              {
+                "lang": "RU",
+                "content": "Хоть я и второстепенный персонаж, я собираюсь изменить твою жизнь!",
+                "__typename": "I18nTitle"
+              }
+            ],
+            "type": "MANHWA",
+            "status": "ONGOING",
+            "translitionStatus": "IN_PROGRESS",
+            "cover": {
+              "id": "SU1BR0U6OTY0NzYzNzY0NTgwOTI5Njc",
+              "blurhash": "TLOWpV%NJNcYIV-qTK%3${0LkCR$",
+              "original": {
+                "height": 1000,
+                "width": 700,
+                "url": "https://mirai.senkuro.net/manga/96476039202496935/covers/d4b17f5b6a448b1262c23b1e07c431bc12ec9c81_96476376458092967.jpeg",
+                "__typename": "ImageSize"
+              },
+              "preview": {
+                "url": "https://shiro.senkuro.net/VMhALNdszQ4lpZQkfE_BKy7cHPABCDvJ9Tn_pyW5rks/rs:fit:192:275/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS85NjQ3NjAzOTIwMjQ5NjkzNS9jb3ZlcnMvZDRiMTdmNWI2YTQ0OGIxMjYyYzIzYjFlMDdjNDMxYmMxMmVjOWM4MV85NjQ3NjM3NjQ1ODA5Mjk2Ny5qcGVn.jpeg",
+                "__typename": "ImageSize"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "SearchManga"
+          },
+          "__typename": "SearchNodeEdge"
+        },
+        {
+          "node": {
+            "id": "TUFOR0E6NjYzMzkxODYzMzE5MDIzNzM",
+            "slug": "gleipnir",
+            "originalName": "Gleipnir",
+            "titles": [
+              {
+                "lang": "EN",
+                "content": "Gleipnir",
+                "__typename": "I18nTitle"
+              },
+              {
+                "lang": "RU",
+                "content": "Глейпнир",
+                "__typename": "I18nTitle"
+              },
+              {
+                "lang": "JA",
+                "content": "グレイプニル",
+                "__typename": "I18nTitle"
+              }
+            ],
+            "type": "MANGA",
+            "status": "FINISHED",
+            "translitionStatus": "FINISHED",
+            "cover": {
+              "id": "SU1BR0U6NjYzMzkyNTE1Nzg0OTUzOTc",
+              "blurhash": "TRL4d8xuys%NjFM{-;f6t6E1WB$z",
+              "original": {
+                "height": 1000,
+                "width": 700,
+                "url": "https://mirai.senkuro.net/manga/66339186331902373/covers/1e6b3c5492d68b047cd6cd5185b92ede59cbad41_66339251578495397.jpeg",
+                "__typename": "ImageSize"
+              },
+              "preview": {
+                "url": "https://shiro.senkuro.net/zmsESFFnj-IKPyQ0vs4m96i7XO-HzR8OWGZQ7D5F7_g/rs:fit:192:275/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS82NjMzOTE4NjMzMTkwMjM3My9jb3ZlcnMvMWU2YjNjNTQ5MmQ2OGIwNDdjZDZjZDUxODViOTJlZGU1OWNiYWQ0MV82NjMzOTI1MTU3ODQ5NTM5Ny5qcGVn.jpeg",
+                "__typename": "ImageSize"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "SearchManga"
+          },
+          "__typename": "SearchNodeEdge"
+        },
+        {
+          "node": {
+            "id": "TUFOR0E6ODc2MzIzOTYxOTQ3MDE3MjY",
+            "slug": "super-god-gene",
+            "originalName": "Super God Gene",
+            "titles": [
+              {
+                "lang": "RU",
+                "content": "Ген Супер Бога",
+                "__typename": "I18nTitle"
+              }
+            ],
+            "type": "MANHUA",
+            "status": "ONGOING",
+            "translitionStatus": "IN_PROGRESS",
+            "cover": {
+              "id": "SU1BR0U6ODc2MzI4NTA4OTA4MDk3NTg",
+              "blurhash": "TM5$rwnMXV%NjEX9Q*XTZ|I9Shn#",
+              "original": {
+                "height": 1000,
+                "width": 700,
+                "url": "https://mirai.senkuro.net/manga/87632396194701726/covers/a4fd0a3649707df9ab71db32ab4e5ab7f31130d0_87632850890809758.jpeg",
+                "__typename": "ImageSize"
+              },
+              "preview": {
+                "url": "https://shiro.senkuro.net/eMqaFeT028mgmzm9noee2GC3Fw-268tsLSGwRfydFVk/rs:fit:192:275/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS84NzYzMjM5NjE5NDcwMTcyNi9jb3ZlcnMvYTRmZDBhMzY0OTcwN2RmOWFiNzFkYjMyYWI0ZTVhYjdmMzExMzBkMF84NzYzMjg1MDg5MDgwOTc1OC5qcGVn.jpeg",
+                "__typename": "ImageSize"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "SearchManga"
+          },
+          "__typename": "SearchNodeEdge"
+        },
+        {
+          "node": {
+            "id": "TUFOR0E6NzcxOTQ3OTEzODQ4MDE2OTA",
+            "slug": "first-instructor",
+            "originalName": "FIRST INSTRUCTOR",
+            "titles": [
+              {
+                "lang": "RU",
+                "content": "Первый учитель!",
+                "__typename": "I18nTitle"
+              }
+            ],
+            "type": "MANHWA",
+            "status": "FINISHED",
+            "translitionStatus": "FINISHED",
+            "cover": {
+              "id": "SU1BR0U6NzczMTEwNjQ3MDU4ODQ1Njc",
+              "blurhash": "T#NJOaS$t,~VWrXTITaKbI%2ads.",
+              "original": {
+                "height": 1000,
+                "width": 700,
+                "url": "https://mirai.senkuro.net/manga/77194791384801690/covers/19d72aa8c8195e7d3a362650a0e2b4db142fe204_77311064705884567.jpeg",
+                "__typename": "ImageSize"
+              },
+              "preview": {
+                "url": "https://shiro.senkuro.net/u9BamEpdpQ8_sInBoJszpNPoWqp-F9iQdEtyZb4kUeg/rs:fit:192:275/aHR0cHM6Ly9taXJhaS5zZW5rdXJvLm5ldC9tYW5nYS83NzE5NDc5MTM4NDgwMTY5MC9jb3ZlcnMvMTlkNzJhYThjODE5NWU3ZDNhMzYyNjUwYTBlMmI0ZGIxNDJmZTIwNF83NzMxMTA2NDcwNTg4NDU2Ny5qcGVn.jpeg",
+                "__typename": "ImageSize"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "SearchManga"
+          },
+          "__typename": "SearchNodeEdge"
+        }
+      ],
+      "__typename": "SearchNodeConnection"
+    }
+  }
+}
